@@ -4,6 +4,7 @@
 
 .title-color{
   color: white;
+
 }
 :root{
   min-width: 200px;
@@ -14,11 +15,6 @@ body {
   margin: 0;
   line-height: 1.6;
   background-color: #242323;
-  /* width: auto;
-  height:auto; 
-  #2D2828;
-  #000000e2;
-  */
 }
 
 g{
@@ -51,15 +47,11 @@ input:-webkit-autofill:active  {
 
 }
 ::-webkit-resizer {
-  /* display: none; */
-
   background-color:#2982c2;
-
 }
 textarea::-webkit-scrollbar {
   width: 1em;
   color:red;
- 
 }
 textarea{
   resize:none!important;
